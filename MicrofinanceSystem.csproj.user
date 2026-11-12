@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MicrofinanceSystem\frmregistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmforgotpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmloans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmCredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmpayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MicrofinanceSystem\frmtransactionhistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
